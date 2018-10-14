@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc  opengl.c physics.c matrix.c bitmap.c sound.c -lX11 -lXi -lXmu -lglut -lGL -lGLU -lm -lpthread -ldl -lode -lopcode -lSDL -lSDL_mixer -lsmpeg -L/usr/X11R6/lib -I ../ode-0.039/include -L ../ode-0.039/lib -I/usr/local/include/SDL -o opengl -Wall && ./opengl

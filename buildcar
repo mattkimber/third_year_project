@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc carbuild/carbuild.c -o carbuild/carbuild && carbuild/carbuild > test.obj && normaliser/norm < test.obj > car.obj

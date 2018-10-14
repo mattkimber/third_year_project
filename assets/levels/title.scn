@@ -1,0 +1,29 @@
+1
+Trailer Master
+1
+
+6
+assets/skies/urban.bmp
+assets/bmp/concrete.bmp
+assets/bmp/title.bmp
+assets/bmp/bricks.bmp
+assets/bmp/fountain.bmp
+assets/tga/particle.tga
+
+7
+assets/skies/sky.ent
+assets/levels/title/ground.ent
+assets/levels/title/billboard.ent
+assets/levels/title/cone1.ent
+assets/levels/title/cone2.ent
+assets/levels/title/wall.ent
+assets/levels/title/fountain_base.ent
+
+1
+assets/levels/title/camera.ent
+
+2
+0.5 0.5 0.6
+assets/lights/day.lgt
+assets/levels/title/1.lgt
+assets/music/title.mp3

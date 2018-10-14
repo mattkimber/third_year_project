@@ -1,0 +1,10 @@
+1
+TEXTURED
+9
+assets/objects/fountain.obj
+0.0 0.3 15.0
+0.0 0.0 1.57
+PHCollisionGeometry
+BOX
+0.3 1.8 1.8
+

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+gcc opengl.c physics.c matrix.c bitmap.c sound.c -lmingw32 -lopengl32 -lsdlmain -lGLU32 -lm -lode -lopcode -lSDL -lSDL_mixer -lstdc++ -I/usr/local/include -L/usr/local/lib -o opengl -Wall

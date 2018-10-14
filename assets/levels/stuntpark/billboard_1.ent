@@ -1,0 +1,9 @@
+1
+TEXTURED
+8
+assets/objects/board.obj
+-1.0 0.0 17.0
+0.0 0.0 0.0
+PHCollisionGeometry
+BOX
+3.0 2.0 0.15

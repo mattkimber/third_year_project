@@ -1,0 +1,10 @@
+1
+TEXTURED
+14
+assets/objects/fence_small.obj
+-11.25 0.3 -44.1
+0.0 0.0 0.0
+PHCollisionGeometry
+BOX
+5.0 0.6 0.2
+

@@ -1,0 +1,9 @@
+1
+TEXTURED
+4
+assets/cars/mk2.obj
+-5.0 1.0 22.0
+0.0 0.0 0.0
+PHCar
+assets/cars/mk2.phys
+

@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc opengl.c physics.c bitmap.c -ansi  -Wall -lX11 -lXi -lXmu -lglut -lGL -lGLU -lm -lpthread -ldl -lSDL -L/usr/X11R6/lib -o opengl -Wall

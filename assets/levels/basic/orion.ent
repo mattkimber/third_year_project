@@ -1,0 +1,9 @@
+1
+TEXTURED
+4
+assets/cars/orion.obj
+5.0 1.0 4.9
+0.0 0.0 0.0
+PHCar
+assets/cars/orion.phys
+

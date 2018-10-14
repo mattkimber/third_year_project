@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc primitives/cube.c -o primitives/cube && primitives/cube

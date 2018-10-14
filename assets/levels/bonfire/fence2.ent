@@ -1,0 +1,10 @@
+1
+TEXTURED
+13
+assets/objects/fence_tall.obj
+3.65 0.8 19.0
+0.0 0.0 0.0
+PHCollisionGeometry
+BOX
+0.2 1.6 10.0
+

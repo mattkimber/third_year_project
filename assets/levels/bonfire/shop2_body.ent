@@ -1,0 +1,10 @@
+1
+TEXTURED
+9
+assets/objects/shop_body.obj
+8.5 3.0 10.0
+0.0 -1.57 0.0
+PHCollisionGeometry
+BOX
+8.0 6.0 10.0
+
